@@ -1,0 +1,89 @@
+順番  日本語                  英語                  中国語
+001.  パラメーターの受け渡し  turn over parameters  传递参数
+002.  ファイルを作成する      create a file         创建文件
+003.  メモリーの解放          free memory           释放内存
+004.  １０進法                decimal               十进制
+005.  １０進数                decimal numeral       十进制数
+006.  時計回り                clockwise             顺时针
+007.  反時計回り              anticlockwise         逆时针
+008.  コンパイラ              compiler              编译器
+009.  変数                    variable              变量
+010.  権限                    permission            权限
+011.  識別子                  identifier            标识符
+012.  頻度                    frequency             频率
+013.  優先度                  priority              优先级
+014.  演算子(えんざんし)      operator              运算符
+015.  回路                    circuit               电路
+016.  制御                    control               控制
+017.  情報                    information           信息
+018.  編集                    edit                  编辑
+019.  座標                    coordinate            坐标
+020.  しきい値                threshold             阈值
+021.  周波数                  frequency             频率
+022.  呼び出し                call                  调用
+023.  関数                    function              函数
+024.  アドレス元              source address        源地址
+025.  アドレス先              destination address   目的地址
+026.  注釈(ちゅうしゃく)      comment               注释
+027.  コンパイル              compile               编译
+028.  最適化                  optimization          最优化
+029.  仕様                    specification         式样
+030.  初期化                  initialization        初始化
+031.  保守                    maintenance           维护
+032.  同期                    synchronization       同步
+033.  削除(さくじょ)          delete                删除
+034.  転送                    transfer              传送
+035.  テスト用例              test case             测试用例
+036.  依存                    dependent             依赖
+037.  ～に値を与える          assign                给...赋值
+038.  割り当て                allocation            分配
+039.  パターン認識            pattern recognition   模式识别
+040.  暗号化                  encryption            加密
+041.  復号化                  decryption            解密
+042.  引き数                  argument              函数参数
+043.  引き渡し                pass [argument]       传递[参数]
+044.  引き取り                return                函数返回
+045.  遠隔呼出                remote call           远程调用
+046.  鉛直                    vertical              垂直
+047.  音声認識                voice recognition     语音识别
+048.  仮想(かそう)            virtual               虚拟
+049.  仮想メモリー            virtual memory        虚拟内存
+050.  仮想現実                virtual reality       虚拟现实
+051.  端子                    terminal              终端
+052.  端末                    terminal              中断
+053.  入出力                  input output          输入输出
+054.  稼働(かどう)            work/operator         工作/运行
+055.  箇所                    place/spot            地方
+056.  画素(がそ)              pixel                 像素
+057.  貼り付け                paste                 粘贴
+058.  該当                    coincident            符合
+059.  格差                    difference            差别
+060.  格納(かくのう)          store                 保存
+061.  格付け                  grading               分级
+062.  割り込み                interrupt             中断
+063.  割り振り                assignment            分配
+064.  割合                    ratio                 比例
+065.  掛け算(かけざん)        multiplication        乘法
+066.  割り算(わりざん)        division              除法
+067.  感度                    sensitivity           灵敏度
+068.  輝度                    luminance             亮度
+069.  掲載                    carry                 刊登
+070.  掲示板                  bulletin board        公告板
+071.  桁数                    figure length         位数
+072.  昇順                    ascending order       升序
+073.  降順                    descending order      降序
+074.  高周波                  high frequency        高频
+075.  再帰                    recursion             递归
+076.  再生                    play back             播放
+077.  残り                    remainder             余数
+078.  磁界                    magnetic field        磁场
+079.  手順書                  manual                手册
+080.  新規作成                new                   新建
+081.  乱数                    random                随机数
+082.  組み込む                embed                 嵌入
+083.  登録                    register              注册
+084.  破線                    broken line           虚线
+085.  非同期                  synchronization       异步
+086.  論理                    logic                 逻辑
+087.  切り抜き                cut                   剪切
+088.  
